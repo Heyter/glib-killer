@@ -1,0 +1,2 @@
+gamemodes\base\gamemode\cl_init.lua
+gamemodes\base\gamemode\shared.lua

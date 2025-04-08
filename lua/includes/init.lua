@@ -73,7 +73,7 @@ do
 	}
 
 	function util.StringToType( str, typename )
-		return type2value[ string_lower( typename ) ]
+		return type2value[ string_lower( typename ) ](str)
 	end
 end
 
